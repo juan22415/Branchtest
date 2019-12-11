@@ -7,7 +7,7 @@ public class CharacterControll : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("This is a test 1,2,3");
     }
 
     // Update is called once per frame
